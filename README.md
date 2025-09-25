@@ -17,7 +17,7 @@ While the first player can force win or draw every time, the AI operates in such
 ## !lanigiro ehT
 
 In this fun and enjoyable game, you can play with a friend or against an AI, but with simple rules that are immediately understood by the vast majority of people. 
-While the second player can force win or draw every time, the AI only goes second half the time. That's right, this AI is actually unbeatable. Good luck!
+While the second player can force win or draw every time, the AI uses a variation on this strategy that still allows the player to win sometimes, similar to the Tick-Oat-Two bot.
 
 # Quantum Tic-Tac-Toe
 
